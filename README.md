@@ -102,7 +102,7 @@ Query strings, similar to headers, are a way to add extra context to a request. 
 
 HTML stands for Hyper Text Markup Language. This is the language that is used to create elements for websites. We're going to dive into the specific format of HTML next week during our class, but for now just know that every website in the world uses HTML - it's the primary format that web browsers like Chrome can understand and turn into visual sites. Here's an example of HTML:
 
-```
+```html
 <html>
     <head>
         <title>My Really Good Site</title>
